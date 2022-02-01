@@ -1,1 +1,1 @@
-# Click: [YoungShallGitHub/stronger.github.io](https://github.com/YoungShallGitHub/stronger.github.io)
+# Click: [stronger.github.io](https://stronger.github.io)
